@@ -1,0 +1,39 @@
+.text-red{
+    color: red;
+}
+b{
+    text-transform: capitalize;
+    color: green;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1681590863200-9b7145c8c96a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+    
+}
+button{
+    background-color:transparent;
+    color: red;
+    border-radius: 20px;
+    cursor:pointer;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.input{
+    background-color: rgba(161, 30, 37, 0.377);
+    display: inline;
+    padding: 16px;
+    border: 8px rgb(0, 140, 255) solid;
+    
+
+}
+.input_container{
+    padding: 12px;
+    background-color: transparent;
+    width: 50%;
+    border-radius: 20px;
+    border-color: red;
+    position: relative;
+    outline: none;
+    
+}
